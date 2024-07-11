@@ -1,0 +1,15 @@
+name,content,property
+No Data,text/html; charset=UTF-8,No Data
+description,"How fast is your download speed? In seconds, FAST.com's simple Internet speed test will estimate your ISP speed.",No Data
+msapplication-TileColor,#ffffff,No Data
+msapplication-TileImage,/assets/favicons/ms-icon-144x144.png,No Data
+theme-color,#ffffff,No Data
+No Data,https://fast.com/share/____share_shot___.html,og:url
+No Data,website,og:type
+No Data,Internet Speed Test,og:title
+No Data,"How fast is your download speed? In seconds, FAST.com's simple Internet speed test will estimate your ISP speed.",og:description
+No Data,https://fast.com/assets/share/fb_en_____share_shot___.png,og:image
+twitter:card,summary_large_image,No Data
+twitter:title,Internet Speed Test,No Data
+twitter:description,"How fast is your download speed? In seconds, FAST.com's simple Internet speed test will estimate your ISP speed.",No Data
+twitter:image,https://fast.com/assets/share/tw_en_____share_shot___.png,No Data
